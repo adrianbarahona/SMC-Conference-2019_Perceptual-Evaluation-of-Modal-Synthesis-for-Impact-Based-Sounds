@@ -1,4 +1,4 @@
-# Repository for the Sound & Music Conference 2019 paper "Perceptual Evaluation of Modal Synthesis for Impact-Based Sounds"
+# Repository for the Sound & Music Computing Conference 2019 paper "Perceptual Evaluation of Modal Synthesis for Impact-Based Sounds"
 
 This repository contains the recorded sounds, synthesizer used and resulting synthesized sounds presented in the [2019 SMC Conference](http://smc2019.uma.es/index.html).
 
