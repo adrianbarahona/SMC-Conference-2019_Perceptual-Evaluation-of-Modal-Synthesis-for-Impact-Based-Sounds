@@ -9,6 +9,10 @@ This repository contains the recorded sounds, synthesizer used and resulting syn
 /Synthesizer       :   ChucK synthesizer used for the mug sound, including the residue file.
 ```
 
+## Take the listening test
+
+https://york.qualtrics.com/jfe/form/SV_0Ipmi7JUFd3FaVT
+
 ## Citation
 
 Coming soon.
